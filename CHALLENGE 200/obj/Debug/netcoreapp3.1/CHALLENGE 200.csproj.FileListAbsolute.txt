@@ -1,0 +1,13 @@
+Z:\Applications\Dev\CHALLENGE 200\bin\Debug\netcoreapp3.1\CHALLENGE 200.exe
+Z:\Applications\Dev\CHALLENGE 200\bin\Debug\netcoreapp3.1\CHALLENGE 200.deps.json
+Z:\Applications\Dev\CHALLENGE 200\bin\Debug\netcoreapp3.1\CHALLENGE 200.runtimeconfig.json
+Z:\Applications\Dev\CHALLENGE 200\bin\Debug\netcoreapp3.1\CHALLENGE 200.runtimeconfig.dev.json
+Z:\Applications\Dev\CHALLENGE 200\bin\Debug\netcoreapp3.1\CHALLENGE 200.dll
+Z:\Applications\Dev\CHALLENGE 200\bin\Debug\netcoreapp3.1\CHALLENGE 200.pdb
+Z:\Applications\Dev\CHALLENGE 200\obj\Debug\netcoreapp3.1\CHALLENGE 200.csprojAssemblyReference.cache
+Z:\Applications\Dev\CHALLENGE 200\obj\Debug\netcoreapp3.1\CHALLENGE 200.csproj.CoreCompileInputs.cache
+Z:\Applications\Dev\CHALLENGE 200\obj\Debug\netcoreapp3.1\CHALLENGE 200.AssemblyInfoInputs.cache
+Z:\Applications\Dev\CHALLENGE 200\obj\Debug\netcoreapp3.1\CHALLENGE 200.AssemblyInfo.cs
+Z:\Applications\Dev\CHALLENGE 200\obj\Debug\netcoreapp3.1\CHALLENGE 200.dll
+Z:\Applications\Dev\CHALLENGE 200\obj\Debug\netcoreapp3.1\CHALLENGE 200.pdb
+Z:\Applications\Dev\CHALLENGE 200\obj\Debug\netcoreapp3.1\CHALLENGE 200.genruntimeconfig.cache
