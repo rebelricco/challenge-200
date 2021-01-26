@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -55,6 +55,7 @@ namespace CHALLENGE_200
 
         public static string ExpressFactors(int number)
         {
+            //Her vill jeg sikre at <number> altid var et positivt nummer
             int[] primes = { 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97 };
             string factorList = "";
             if (number != 0)
@@ -75,6 +76,7 @@ namespace CHALLENGE_200
 
         public static string IsPrime(int[] primes, int number)
         {
+            //Her vill jeg nok også sikre at <number> ikker er højere end det højste i <primes>
             if(Array.BinarySearch(primes, number) < 0)
             {
                 return "no";
